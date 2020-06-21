@@ -1,5 +1,5 @@
 # INTRODUCCION
-Este por ahora es un intento para la instalación de los drivers UHD necesarios en GNURadio 3.8.1 para USRP como el E-310.
+Este por ahora es un intento para la instalación de los drivers UHD necesarios en GNURadio 3.8.1 sobre Ubuntu 20.04 para USRPs como el E-310.
 
 El proceso no está bien probado pero se basa en experiencias que ya hemos tenido con GNU Radio v 2.7.1 y recomendaciones que hemos ido encontrando
 
@@ -16,5 +16,13 @@ $ sudo apt-get -y install wget ncurses-bin automake autoconf gtk2-engines-pixbuf
 
 # LA INSTALACION DE LOS DRIVER
 Desde una terminal de Ubuntu corra el script UHD_GNURadio.sh
+
+## Nota 1
+- el anterior es exactamente el script hecho por Luis Miguel Diaz y que usabamos con GNU Radio 2.7.1. Suponemos que no hay que adaptarle nada. Pero es importante indagar si ha salido alguna nueva recomendación o facilidad para GNU Radio 3.8.1
+
+## Nota 2
+- Existe un script para GNURadio 3.8.1 solo que al parecer ha sido probado en Ubuntu 18.04, mientras que nosotros nos orientamos a Ubuntu 20.01: https://wiki.gnuradio.org/index.php/InstallingGR
+
+
 
 
