@@ -13,7 +13,9 @@ El proceso no está bien probado pero se basa en experiencias que ya hemos tenid
 $ sudo apt install g++ swig doxygen libboost-all-dev libgmp-dev libfftw3-dev libsdl1.2-dev libgsl-dev libqwt-qt5-dev libqt5opengl5-dev liblog4cpp5-dev libzmq3-dev 
 $ sudo apt install python3-numpy-doc python3-numpy-dbg python3-docutils python3-dev python3-opengl python3-cheetah python3-tk python3-gtk2 python3-requests python3-zmq python3-six python3-gps
 
-- Suponemos que con lo anterior es suficiente como prerrequisto para la instalación de UHD, pero queremos dejar constancia que en GNURadio v2.7 instalábamos también:
+## Posible instalación adicional
+
+Suponemos que con lo anterior es suficiente como prerrequisto para la instalación de UHD, pero queremos dejar constancia que en GNURadio v2.7 instalábamos también lo siguiente:
 
 $ sudo apt-get -y install wget ncurses-bin automake autoconf gtk2-engines-pixbuf r-base-dev fort77  gpsd gpsd-clients libqwt6abi1 libfftw3-bin libfftw3-doc libncurses5 libncurses5-dev libncurses5-dbg libfontconfig1-dev libxrender-dev libpulse-dev libtool libfftw3-dev libcppunit-dev libusb-dev libusb-1.0-0-dev ccache  libusb-1.0-0-dev libqwtplot3d-qt5-dev libxi-dev  liborc-0.4-0 liborc-0.4-dev libasound2-dev libzmq5 libcomedi-dev libqwt-dev libqwt6abi1 libgps-dev libgps23
 
