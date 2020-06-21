@@ -1,9 +1,10 @@
 # INTRODUCCION
-Este por ahora es un intento para la instalación de los drivers UHD necesarios en GNURadio para USRP como el E-310.
+Este por ahora es un intento para la instalación de los drivers UHD necesarios en GNURadio 3.8.1 para USRP como el E-310.
 
 El proceso no está bien probado pero se basa en experiencias que ya hemos tenido con GNU Radio v 2.7.1 y recomendaciones que hemos ido encontrando
 
-# PREQUISITOS (DEPENDENCIAS) para instalación de UHD para GNURadio 3.8.1
+# PREQUISITOS (DEPENDENCIAS)
+
 - Lo siguiente es tomado de https://wiki.gnuradio.org/index.php/InstallingGR cuando se aborda la instalación de drives UHD
 - Al parecere es una experiencia que se tiene cuando se usa Ubunto 18.04 con GNU Radio 3.8.1, pero quizá siga siendo válido para Ubuntu 20.04
 
