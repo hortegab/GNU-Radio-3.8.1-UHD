@@ -18,7 +18,7 @@ $ sudo apt-get -y install wget ncurses-bin automake autoconf gtk2-engines-pixbuf
 Desde una terminal de Ubuntu corra el script UHD_GNURadio.sh
 
 ## Nota 1
-- el anterior es exactamente el script hecho por Luis Miguel Diaz y que usabamos con GNU Radio 2.7.1. Suponemos que no hay que adaptarle nada. Pero es importante indagar si ha salido alguna nueva recomendación o facilidad para GNU Radio 3.8.1
+- el anterior es exactamente el script hecho por Ing Luis Miguel Diaz y que usabamos en la UIS con GNU Radio 2.7.1. Suponemos que no hay que adaptarle nada. Pero es importante indagar si ha salido alguna nueva recomendación o facilidad para GNU Radio 3.8.1
 
 ## Nota 2
 - Existe un script para GNURadio 3.8.1 solo que al parecer ha sido probado en Ubuntu 18.04, mientras que nosotros nos orientamos a Ubuntu 20.01: https://wiki.gnuradio.org/index.php/InstallingGR
