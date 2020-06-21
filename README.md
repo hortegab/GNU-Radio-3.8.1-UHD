@@ -7,7 +7,7 @@ El proceso no está bien probado pero se basa en experiencias que ya hemos tenid
 
 - Lo siguiente es tomado de https://wiki.gnuradio.org/index.php/InstallingGR cuando se aborda la instalación de drives UHD
 - Al parecere es una experiencia que se tiene cuando se usa Ubunto 18.04 con GNU Radio 3.8.1, pero quizá siga siendo válido para Ubuntu 20.04
-- No hemos incluido dependencias que ya están incluidas en la instalación del OOT E3TRadio como se explica en: https://github.com/hortegab/comdig_Lib_OOT_E3TRadio.3.8
+- No hemos incluido dependencias que ya están incluidas en la instalación del OOT E3TRadio. Por lo tanto, la instalación del OOT E3TRadio es uno de los prerrequisitos y se explica en: https://github.com/hortegab/comdig_Lib_OOT_E3TRadio.3.8
 
 $ sudo apt install g++ swig doxygen libboost-all-dev libgmp-dev libfftw3-dev libsdl1.2-dev libgsl-dev libqwt-qt5-dev libqt5opengl5-dev liblog4cpp5-dev libzmq3-dev 
 $ sudo apt install python3-numpy-doc python3-numpy-dbg python3-docutils python3-dev python3-opengl python3-cheetah python3-tk python3-gtk2 python3-requests python3-zmq python3-six python3-gps
